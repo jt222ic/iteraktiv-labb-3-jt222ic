@@ -1,0 +1,9 @@
+C:\Users\jt222ic\Documents\Visual Studio 2013\Projects\Jan\Jan\bin\Debug\Jan.exe.config
+C:\Users\jt222ic\Documents\Visual Studio 2013\Projects\Jan\Jan\bin\Debug\Jan.exe
+C:\Users\jt222ic\Documents\Visual Studio 2013\Projects\Jan\Jan\obj\Debug\Jan.csprojResolveAssemblyReference.cache
+C:\Users\jt222ic\Documents\Visual Studio 2013\Projects\Jan\Jan\obj\Debug\Jan.Form1.resources
+C:\Users\jt222ic\Documents\Visual Studio 2013\Projects\Jan\Jan\obj\Debug\Jan.Main.resources
+C:\Users\jt222ic\Documents\Visual Studio 2013\Projects\Jan\Jan\obj\Debug\Jan.Properties.Resources.resources
+C:\Users\jt222ic\Documents\Visual Studio 2013\Projects\Jan\Jan\obj\Debug\Jan.csproj.GenerateResource.Cache
+C:\Users\jt222ic\Documents\Visual Studio 2013\Projects\Jan\Jan\obj\Debug\Jan.exe
+C:\Users\jt222ic\Documents\Visual Studio 2013\Projects\Jan\Jan\obj\Debug\Jan.pdb
